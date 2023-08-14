@@ -1,0 +1,86 @@
+body {
+  font-family: "Helvetica";
+}
+
+p {
+  font-size: larger;
+}
+
+li {
+  font-size: large;
+}
+.title {
+  background-color: #f7fbfc;
+}
+
+h1 {
+  font-family: "Minion Pro";
+}
+h1 b {
+  color: #769fcd;
+}
+
+b {
+  color: #acbcff;
+}
+.link {
+  color: #769fcd;
+}
+.image {
+  border-radius: 50%;
+  border-style: groove;
+  border-width: 0.7em;
+  border-color: #d6e6f2;
+}
+.quete {
+  font-family: "Helvetica";
+  font-weight: lighter;
+}
+
+.hire-btn {
+  background-color: #769fcd;
+  border-style: none;
+}
+.about-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h2 {
+  color: #769fcd;
+  align-self: flex-start;
+  margin-left: 1em;
+  font-family: "Minion Pro";
+}
+h3 {
+  font-family: "Minion Pro";
+}
+
+.workEx {
+  background-color: #f7fbfc;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.workDiv {
+  border-left-style: solid;
+  border-left-color: #769fcd;
+}
+.spans {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  margin-bottom: 2rem;
+}
+span {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.contact {
+  background-color: #f7fbfc;
+  border-style: none;
+}
+.email {
+  margin-left: 1.6em;
+}
